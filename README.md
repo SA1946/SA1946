@@ -11,7 +11,7 @@ const Reaksa = {
   name: 'Meas Reaksa',
   interest: ['Web Development', 'AI/ML'],
   frontEnd: {
-      js: ["React"],
+      js: ["React","Redux"],
       css: ["TailWind", "Bootstrap"]
   },
   currentFocus: "Dynamic UI Components",
