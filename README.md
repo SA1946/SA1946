@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reaksa</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate in web development.</h3>
 
 - 🔭I’m currently studying bachelor degree in computer science.
@@ -19,7 +19,7 @@ const Reaksa = {
 };
 ```
 
-<em>**Open-source**</em> = open DMs! Let’s talk tech, life, or anything in between. 👋
+<!-- <em>**Open-source**</em> = open DMs! Let’s talk tech, life, or anything in between. 👋 -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
