@@ -11,10 +11,10 @@ const Reaksa = {
   name: 'Meas Reaksa',
   interest: ['Web Development', 'AI/ML'],
   frontEnd: {
-      js: ["React","Redux"],
-      css: ["TailWind", "Bootstrap"]
+      [js,ts]: [ "Angular", "React" ],
+      css: ["TailWind", "Bootstrap", "Scss"]
   },
-  currentFocus: "Dynamic UI Components",
+  currentFocus: "Angular Material",
   funFact: "I can debug faster with a coffee in hand >,<"
 };
 ```
